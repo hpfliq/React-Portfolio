@@ -66,7 +66,7 @@ export const skills = [
       {
         name: "Illustrator",
         image:
-          "https://drive.google.com/file/d/1pY0l92M6XYS7iTjngYn0tv3NtMhu5h8c/view?usp=drive_link",
+          "https://w7.pngwing.com/pngs/883/686/png-transparent-adobe-illustrator-logo-tech-companies-thumbnail.png",
       },
       {
         name: "FIGMA",
