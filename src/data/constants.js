@@ -52,7 +52,7 @@ export const skills = [
       {
         name: "Tailwind",
         image:
-          "https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png",
+          "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
       }
     ],
   },
@@ -66,25 +66,25 @@ export const skills = [
       {
         name: "Illustrator",
         image:
-          "https://w7.pngwing.com/pngs/883/686/png-transparent-adobe-illustrator-logo-tech-companies-thumbnail.png",
+          "https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg",
       },
       {
         name: "FIGMA",
-        image: "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
       },
       {
         name: "Adobe XD",
         image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg",
       },
       {
         name: "Canva",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/1024px-Canva_Logo.svg.png",
       },
       {
         name: "Lightroom",
-        image: "https://www.postgresql.org/media/img/about/press/elephant.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg",
       },
     ],
   },
@@ -94,27 +94,27 @@ export const skills = [
       {
         name: "Premiere Pro",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+          "https://upload.wikimedia.org/wikipedia/commons/2/24/Adobe-premiere-pro-cc-1430-vector-svg-.svg",
       },
       {
         name: "DaVinci Resolve",
         image:
-          "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
+          "https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png",
       },
       {
         name: "After Effects",
         image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
+          "https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg",
       },
       {
         name: "Capcut",
         image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a0/Capcut-logo.svg",
       },
       {
         name: "Filmora",
         image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/1024px-Wondershare_filmora_logo.svg.png",
       },
     ],
   },
@@ -124,7 +124,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://upload.wikimedia.org/wikipedia/commons/0/03/Git_format.png",
       },
       {
         name: "GitHub",
