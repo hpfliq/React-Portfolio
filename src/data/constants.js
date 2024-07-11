@@ -6,7 +6,7 @@ export const Bio = {
     "Video Editor",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "Hey , I'm Prabin , a versatile professional with a unique blend of skills in Web-Development, Graphic Designing, and Video Editing. My journey in the digital realm has been fueled by a fervent passion for creating captivating and seamless user experiences.",
   github: "https://github.com/hpfliq",
   resume:
     "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
@@ -80,7 +80,7 @@ export const skills = [
       {
         name: "Canva",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/1024px-Canva_Logo.svg.png",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/640px-Canva_Logo.svg.png",
       },
       {
         name: "Lightroom",
