@@ -61,7 +61,7 @@ export const skills = [
     skills: [
       {
         name: "Photoshop",
-        image: "https://drive.google.com/file/d/1a34scGRszy2uwXaboCAGRQzLBwoR2lxY/view?usp=drive_link",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617",
       },
       {
         name: "Illustrator",
