@@ -264,10 +264,9 @@ export const education = [
     id: 1,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpC3pjualmvPrJzNkOjyFoiK3BgRppo4-ww&s",
     school: "Methodist School, Dankuni",
-    date: "Apr 2019 - Apr 2025",
-    grade: "88.2%",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
+    date: "Apr 2018 - Apr 2019",
+    desc: "I completed my class 12 high school education at PPM.HSS , Anducode, where I studied Science with Computer Science.",
+    degree: "XII, Science with Computer",
   },
 ];
 
