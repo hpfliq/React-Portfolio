@@ -257,7 +257,7 @@ export const education = [
     school: "Ponjesly College Of Engineering, Nagercoil",
     date: "Aug 2019 - Apr 2023",
     grade: "7.79 CGPA",
-    desc: "I had done my Bachelor's degree in Computer Science and Engineering at Ponjesly College Of Engineering, Nagercoil. I have completed 8 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    desc: "I had done my Bachelor's degree in Computer Science and Engineering at Ponjesly College Of Engineering, Nagercoil. I have completed 8 semesters and have a CGPA of 7.79. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Engineering - B.E, Computer Science and Engineering",
   },
   {
