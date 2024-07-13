@@ -69,7 +69,7 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg",
       },
       {
-        name: "FIGMA",
+        name: "Figma",
         image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
       },
       {
