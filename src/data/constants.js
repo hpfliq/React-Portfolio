@@ -148,11 +148,11 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "DevOps & Fullstack Engineering Intern",
-    company: "Flipr Inovations Pvt. Ltd.",
-    date: "Aug 2023 - July 2023",
-    desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+    img: "https://drive.google.com/file/d/1pY0l92M6XYS7iTjngYn0tv3NtMhu5h8c/view?id={ID}&sz=w1000",
+    role: "Graphic Designer & Video Editor",
+    company: "Groarz Digital Marketing Agency, Nagercoil",
+    date: "Oct 2023 - Feb 2024",
+    desc: "Working on Product Designs, Social Media Designs, Motion Graphics and Logos and ShortForm content.",
     skills: [
       "Docker",
       "Terraform",
