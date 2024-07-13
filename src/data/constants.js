@@ -253,7 +253,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://en.wikipedia.org/wiki/Ponjesly_College_of_Engineering#/media/File:Ponjesly_College_of_Engineering_logo.png",
+    img: "https://upload.wikimedia.org/wikipedia/en/2/22/Ponjesly_College_of_Engineering_logo.png",
     school: "Ponjesly College Of Engineering , Nagercoil",
     date: "Aug 2019 - Apr 2023",
     grade: "7.79 CGPA",
@@ -263,7 +263,7 @@ export const education = [
   {
     id: 1,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpC3pjualmvPrJzNkOjyFoiK3BgRppo4-ww&s",
-    school: "Methodist School, Dankuni",
+    school: "PPM.HSS , Anducode",
     date: "Apr 2018 - Apr 2019",
     desc: "I completed my class 12 high school education at PPM.HSS , Anducode, where I studied Science with Computer Science.",
     degree: "XII, Science with Computer",
