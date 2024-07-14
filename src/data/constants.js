@@ -168,7 +168,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    img: "https://media.licdn.com/dms/image/D4E0BAQFfpYi9qngiPw/company-logo_200_200/0/1693026807786/wikpolt_softwares_logo?e=2147483647&v=beta&t=uemrdyR_p0f_1skogN_cthat_m56SFvF7gsCLGuN6Es",
     role: "WebDeveloper Intern",
     company: "Wikpolt Software, Chettikuzham, Nagercoil",
     date: "Apr 2024 - Jun 2024",
