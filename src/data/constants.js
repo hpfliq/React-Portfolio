@@ -207,7 +207,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://upload.wikimedia.org/wikipedia/en/2/22/Ponjesly_College_of_Engineering_logo.png",
+    img: "https://upload.wikimedia.org/wikipedia/commons/1/10/Ponjesly_logo.jpg",
     school: "Ponjesly College Of Engineering, Nagercoil",
     date: "Aug 2019 - Apr 2023",
     grade: "7.79 CGPA",
