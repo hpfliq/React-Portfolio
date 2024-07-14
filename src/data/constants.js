@@ -200,7 +200,7 @@ export const experiences = [
       "JavaScript",
       "Ui/Ux Design",
     ],
-    doc: "https://www.coursera.org/account/accomplishments/certificate/A9T52REZZGUN",
+    doc: "",
   },
 ];
 
