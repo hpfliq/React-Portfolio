@@ -148,7 +148,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://drive.usercontent.google.com/download?id=1pY0l92M6XYS7iTjngYn0tv3NtMhu5h8c&export=view&authuser=1",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1Xo6uteuca6oI6QjoRQ7SYz1UH1k7JdoROYLa24Iem_oqWDDYoevU91cf9izTCNGkdY&usqp=CAU",
     role: "Graphic Designer & Video Editor",
     company: "Groarz Digital Marketing Agency, Nagercoil",
     date: "Oct 2023 - Feb 2024",
