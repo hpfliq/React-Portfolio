@@ -32,7 +32,7 @@ const ParticlesComponent = (props) => {
 
   const options = useMemo(
     () => ({
-      background:none,
+      
       fpsLimit: 120,
       interactivity: {
         events: {
@@ -47,8 +47,8 @@ const ParticlesComponent = (props) => {
         },
         modes: {
           push: {
-            distance: 200,
-            duration: 15,
+            distance: 500,
+            duration: 40,
           },
           grab: {
             distance: 150,
@@ -80,7 +80,7 @@ const ParticlesComponent = (props) => {
           density: {
             enable: true,
           },
-          value: 150,
+          value: 80,
         },
         opacity: {
           value: 1.0,
