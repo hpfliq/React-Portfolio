@@ -14,6 +14,7 @@ const Container = styled.div`
     display: flex;
     flex-direction: column;
     justify-content: center;
+  background-color: #090917;
     position: relative;
     z-index: 1;
     align-items: center;

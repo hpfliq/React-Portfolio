@@ -47,7 +47,7 @@ const ParticlesComponent = (props) => {
         },
         modes: {
           push: {
-            distance: 500,
+            distance: 100,
             duration: 40,
           },
           grab: {

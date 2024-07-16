@@ -7,6 +7,8 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 position: relative;
+  background-color: #090917;
+
 z-index: 1;
 align-items: center;
 `
@@ -59,7 +61,7 @@ const SkillsContainer = styled.div`
 const Skill = styled.div`
   width: 100%;
   max-width: 500px;
-  background: ${({ theme }) => theme.card};
+    background-color: #090917;
   border: 0.1px solid #854CE6;
   box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
   border-radius: 16px;
