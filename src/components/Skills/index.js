@@ -7,6 +7,8 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 position: relative;
+padding-top: 0.5rem;
+padding-bottom: 0.5rem;
   background-color: #090917;
 
 z-index: 1;
