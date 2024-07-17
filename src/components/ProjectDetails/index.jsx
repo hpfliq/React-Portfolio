@@ -1,4 +1,4 @@
-import { CloseRounded, GitHub, LinkedIn } from '@mui/icons-material';
+import { CloseRounded, Instagram, LinkedIn } from '@mui/icons-material';
 import { Modal } from '@mui/material';
 import React from 'react'
 import styled from 'styled-components'
@@ -214,8 +214,8 @@ const index = ({ openModal, setOpenModal }) => {
                                     <Member>
                                         <MemberImage src={member.img} />
                                         <MemberName>{member.name}</MemberName>
-                                        <a href={member.github} target="new" style={{textDecoration: 'none', color: 'inherit'}}>
-                                            <GitHub />
+                                        <a href={member.instagram} target="new" style={{textDecoration: 'none', color: 'inherit'}}>
+                                            <Instagram />
                                         </a>
                                         <a href={member.linkedin} target="new" style={{textDecoration: 'none', color: 'inherit'}}>
                                             <LinkedIn />
@@ -226,7 +226,7 @@ const index = ({ openModal, setOpenModal }) => {
                         </>
                     )}
                     <ButtonGroup>
-                        <Button dull href={project?.github} target='new'>View Code</Button>
+                        <Button dull href={project?.instagram} target='new'>View Code</Button>
                         <Button href={project?.webapp} target='new'>View Live App</Button>
                     </ButtonGroup>
                 </Wrapper>

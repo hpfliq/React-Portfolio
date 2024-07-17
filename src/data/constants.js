@@ -13,7 +13,7 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/hpfliq/",
   twitter: "https://x.com/hpfliq",
   insta: "https://www.instagram.com/hpfliq/",
-  facebook: "https://www.facebook.com/hpfliq/",
+  youtube: "https://www.youtube.com/@hpfliq",
 };
 
 export const skills = [
@@ -235,21 +235,16 @@ export const projects = [
       "https://upload.wikimedia.org/wikipedia/commons/5/57/Social_media_design.jpg",
     tags: ["Photoshop", "Illustrator", "Figma", "AdobeXd", "Canva", "Lightroom"],
     category: "Graphic Designing",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+    github: "",
     webapp: "https://www.behance.net/gallery/194617299/Social-Media-Designs-HPFLIQ",
     member: [
       {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
+        name: "HPFLIQ",
+        img: "https://yt3.googleusercontent.com/REivrDhouzsnKrUJlLDZ-SwU5Kgf2Jg-FxU0pzVChavl-q2XnWsklRWO3guY0WeIM7xTWFYXc5s=s160-c-k-c0x00ffffff-no-rj",
+        linkedin: "https://www.linkedin.com/in/hpfliq/",
+        github: "https://www.instagram.com/hpfliq/",
       },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+
     ],
   },
   {
@@ -259,10 +254,10 @@ export const projects = [
     description:
       "Transforming moments into visual-masterpieces and frames into cinematic brilliance.",
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sushy.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ca/Susjm.jpg",
     tags: ["Premiere Pro", "After Effects", "DaVinci Resolve", "Capcut", "Filmora"],
     category: "Video Editing",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
+    github: "",
     webapp: "https://www.behance.net/gallery/194622285/Short-Form-Content-Edit",
   },
   {
@@ -272,10 +267,10 @@ export const projects = [
     description:
       "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/Hpfliq_BG.png",
     tags: ["Photoshop", "Illustrator", "Sketch", "Canva"],
     category: "Graphic Designing",
-    github: "https://github.com/rishavchanda/Job-finder-App",
+    github: "",
     webapp: "https://github.com/rishavchanda/Job-finder-App",
   },
 ];
