@@ -152,7 +152,7 @@ export const experiences = [
     role: "Graphic Designer & Video Editor",
     company: "Groarz Digital Marketing Agency, Nagercoil",
     date: "Oct 2023 - Feb 2024",
-    desc: "Working on Product Designs, Social Media Designs, Motion Graphics and Logos and ShortForm content.",
+    desc: "I have a work-experience as a graphic designer and video editor, working on projects including product designs, social media designs, ads, motion graphics, logos, and short-form content.",
     skills: [
       "Photoshop",
       "Illustrator",
@@ -172,15 +172,15 @@ export const experiences = [
     role: "WebDeveloper Intern",
     company: "Wikpolt Software, Chettikuzham, Nagercoil",
     date: "Apr 2024 - Jun 2024",
-    desc: "Working on the frontend of the web application using ReactJS, Redux, and Javascript.",
+    desc: "I also have a work-experience as a frontend developer intern, specializing in web applications using ReactJS, Redux, JavaScript, Tailwind, Bootstrap, CSS, and HTML.",
     skills: [
       "ReactJS",
       "Redux",
+      "JavaScript",
       "Tailwind Css",
       "Bootstrap",
       "HTML",
       "CSS",
-      "JavaScript",
     ],
   },
   {
@@ -189,16 +189,16 @@ export const experiences = [
     role: "Meta Front-End Developer Course",
     company: "Meta , Coursera",
     date: "June 2023 - Nov 2023",
-    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
+    desc: "I have also completed the Meta Frontend Course on Coursera, focusing on advanced ReactJS and other frontend technologies like Redux, Javascript, Tailwind.",
     skills: [
       "ReactJS",
       "Redux",
+      "JavaScript",
       "Tailwind Css",
       "Bootstrap",
       "HTML",
       "CSS",
-      "JavaScript",
-      "Ui/Ux Design",
+      "UI/UX Design",
     ],
     doc: "",
   },
@@ -230,7 +230,7 @@ export const projects = [
     title: "Social Media Designs",
     date: "",
     description:
-      "Crafting ideas into Eye-Catching visuals to elevate your brand in the digital realm.",
+      "Crafting ideas into eye catching visuals to elevate your brand in the digital realm.",
     image:
       "https://upload.wikimedia.org/wikipedia/commons/5/57/Social_media_design.jpg",
     tags: ["Photoshop", "Illustrator", "Figma", "AdobeXd", "Canva", "Lightroom"],
@@ -244,7 +244,6 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/hpfliq/",
         github: "https://www.instagram.com/hpfliq/",
       },
-
     ],
   },
   {
@@ -259,19 +258,35 @@ export const projects = [
     category: "Video Editing",
     github: "",
     webapp: "https://www.behance.net/gallery/194622285/Short-Form-Content-Edit",
+    member: [
+      {
+        name: "HPFLIQ",
+        img: "https://yt3.googleusercontent.com/REivrDhouzsnKrUJlLDZ-SwU5Kgf2Jg-FxU0pzVChavl-q2XnWsklRWO3guY0WeIM7xTWFYXc5s=s160-c-k-c0x00ffffff-no-rj",
+        linkedin: "https://www.linkedin.com/in/hpfliq/",
+        github: "https://www.instagram.com/hpfliq/",
+      },
+    ],
   },
   {
     id: 10,
     title: "Logos",
     date: "",
     description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+      "Elevate your brand with a distinctive logo's that leaves a long-lasting impression. ",
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/8/8f/Hpfliq_BG.png",
-    tags: ["Photoshop", "Illustrator", "Sketch", "Canva"],
+      "https://thumbnailtest.com/wp-content/uploads/2024/03/Logo-in-YouTube-Thumbnail.jpg",
+    tags: ["Photoshop", "Illustrator", "Sketch", "Canva", "Figma"],
     category: "Graphic Designing",
     github: "",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+    webapp: "https://www.behance.net/gallery/194622889/Logo-Designs",
+    member: [
+      {
+        name: "HPFLIQ",
+        img: "https://yt3.googleusercontent.com/REivrDhouzsnKrUJlLDZ-SwU5Kgf2Jg-FxU0pzVChavl-q2XnWsklRWO3guY0WeIM7xTWFYXc5s=s160-c-k-c0x00ffffff-no-rj",
+        linkedin: "https://www.linkedin.com/in/hpfliq/",
+        github: "https://www.instagram.com/hpfliq/",
+      },
+    ],
   },
 ];
 
