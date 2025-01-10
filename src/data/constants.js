@@ -9,7 +9,7 @@ export const Bio = {
     "Hey , I'm Prabin , a versatile professional with a unique blend of skills in Web-Development, Graphic Designing, and Video Editing. My journey in the digital realm has been fueled by a fervent passion for creating captivating and seamless user experiences.",
   github: "https://github.com/hpfliq",
   resume:
-    "https://drive.google.com/file/d/17pkYOJl1PqkQi1lmQCaYiRddRB32LcPx/view?usp=sharing",
+    "https://drive.google.com/file/d/1H6IHMM0sTixPBFrs6scLzykJ3Hk2pAtF/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/hpfliq/",
   twitter: "https://x.com/hpfliq",
   insta: "https://www.instagram.com/hpfliq/",
