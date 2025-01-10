@@ -9,7 +9,7 @@ export const Bio = {
     "Hey , I'm Prabin , a versatile professional with a unique blend of skills in Web-Development, Graphic Designing, and Video Editing. My journey in the digital realm has been fueled by a fervent passion for creating captivating and seamless user experiences.",
   github: "https://github.com/hpfliq",
   resume:
-    "https://drive.google.com/file/d/1Af8fSRVgv_qCoM3hNlUrOf4UioXYtVvx/view?usp=drive_link",
+    "https://drive.google.com/file/d/17pkYOJl1PqkQi1lmQCaYiRddRB32LcPx/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/hpfliq/",
   twitter: "https://x.com/hpfliq",
   insta: "https://www.instagram.com/hpfliq/",
@@ -151,7 +151,7 @@ export const experiences = [
     img: "https://media.licdn.com/dms/image/C560BAQH37SAlLketbA/company-logo_100_100/0/1660650424064/groarz_branding_solutions_logo?e=2147483647&v=beta&t=MvK5OOJk4ernxT8Ti1A7chdY7BTzL6EvVJPjUCkNWTs",
     role: "Graphic Designer & Video Editor",
     company: "Groarz Digital Marketing Agency, Nagercoil",
-    date: "Oct 2023 - Feb 2024",
+    date: "Oct 2023 - Dec 2024",
     desc: "I have a work-experience as a graphic designer and video editor, working on projects including product designs, social media designs, ads, motion graphics, logos, and short-form content.",
     skills: [
       "Photoshop",
